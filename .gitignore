@@ -1,0 +1,8 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/TableStorage/v15/Server/sqlite3
+/packages/Newtonsoft.Json.10.0.2
+/TableStorage/bin/Debug
+/TableStorage/obj/Debug
